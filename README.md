@@ -11,5 +11,5 @@ Funcional con Android y Web
 
 Solución:
 
-https://github.com/MisionTIC4b/f_chat
+video de verificacion: https://youtu.be/xFdoBQ2jTvM
 
