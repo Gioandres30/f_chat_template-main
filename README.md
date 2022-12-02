@@ -11,5 +11,5 @@ Funcional con Android y Web
 
 Solución:
 
-video de verificacion: https://youtu.be/xFdoBQ2jTvM
+video de verificacion: https://youtu.be/tqqB823ZR6s
 
